@@ -10,6 +10,7 @@ class Module1Test extends StatelessWidget {
         child: const Text(
           'PRUEBA',
           style: TextStyle(fontSize: 30),
+          textAlign: TextAlign.center,
         ));
   }
 }
